@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>Blog</span>,
+  logo: <span>기록</span>,
   project: {
     link: 'https://github.com/yumin-jung/blog',
   },

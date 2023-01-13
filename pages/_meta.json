@@ -1,7 +1,7 @@
 {
-  "index": "블로그 만들기",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "index",
+  "javascript": "javascript",
+  "ios": "ios",
   "about": {
     "title": "About",
     "type": "page"
