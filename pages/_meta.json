@@ -1,6 +1,7 @@
 {
-  "index": "index",
-  "javascript": "javascript",
+  "index": "Index",
+  "git": "Git",
+  "javascript": "JavaScript",
   "ios": "ios",
   "about": {
     "title": "About",
