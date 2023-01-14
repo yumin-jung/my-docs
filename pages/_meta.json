@@ -1,10 +1,22 @@
 {
-  "index": "Index",
-  "git": "Git",
-  "javascript": "JavaScript",
-  "ios": "ios",
-  "about": {
-    "title": "About",
+  "index": {
+    "title": "Introduction",
+    "type": "page",
+    "display": "hidden"
+  },
+  "docs": {
+    "title": "Docs",
     "type": "page"
+  },
+  "blog": {
+    "title": "Blog",
+    "type": "page",
+    "theme": {
+      "sidebar": false,
+      "toc": true,
+      "footer": true,
+      "breadcrumb": false,
+      "typesetting": "article"
+    }
   }
 }
