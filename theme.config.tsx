@@ -12,10 +12,7 @@ const Vercel = () => (
 
 const FOOTER_LINK_TEXT =
   (
-    <>
-      Powered by
-      <Vercel />
-    </>
+    <Vercel />
   )
 
 const FOOTER_LINK = "https://github.com/yumin-jung/blog";
