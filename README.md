@@ -1,4 +1,4 @@
-# Blog
+# Documentation
 
 Document knowledge that helped development and experience resolving errors.
 
