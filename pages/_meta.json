@@ -7,16 +7,5 @@
   "docs": {
     "title": "Docs",
     "type": "page"
-  },
-  "blog": {
-    "title": "Blog",
-    "type": "page",
-    "theme": {
-      "sidebar": false,
-      "toc": true,
-      "footer": true,
-      "breadcrumb": false,
-      "typesetting": "article"
-    }
   }
 }
